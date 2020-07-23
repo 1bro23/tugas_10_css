@@ -1,0 +1,17 @@
+div{
+  height:636px;
+  background-image:radial-gradient(ellipse at top right, white, red);
+  position:relative;
+}
+.satu{
+  margin:auto;
+  width:600px;
+  height:430px;
+  background-image:radial-gradient(ellipse at bottom, white, blue);
+}
+.dua{
+  margin:auto;
+  width:600px;
+  height:170px;
+  background-image:radial-gradient(circle at left, white, blue,white);
+}
